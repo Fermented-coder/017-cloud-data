@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/017-cloud-data/static/css/main.b41a38c3.css",
+    "main.js": "/017-cloud-data/static/js/main.0de98c80.js",
+    "static/media/support.jpg": "/017-cloud-data/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/017-cloud-data/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/017-cloud-data/index.html",
+    "main.b41a38c3.css.map": "/017-cloud-data/static/css/main.b41a38c3.css.map",
+    "main.0de98c80.js.map": "/017-cloud-data/static/js/main.0de98c80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b41a38c3.css",
+    "static/js/main.0de98c80.js"
+  ]
+}
